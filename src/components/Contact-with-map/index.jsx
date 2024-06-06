@@ -44,7 +44,7 @@ const ContactWithMap = () => {
               </div>
 
               <button type="submit" className="btn-curve btn-color">
-                <span>Send Message</span>
+                <span>Холбоо барих</span>
               </button>
             </div>
           </form>

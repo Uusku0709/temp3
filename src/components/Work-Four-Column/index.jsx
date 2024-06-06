@@ -16,11 +16,11 @@ const WorkFourColumn = () => {
           <div className="filtering text-center mb-30">
             <div className="filter">
               <span data-filter="*" className="active">
-                All
+                Бүгд
               </span>
-              <span data-filter=".interior">Interior</span>
-              <span data-filter=".theaters">Theaters</span>
-              <span data-filter=".residential">Residential</span>
+              <span data-filter=".interior">Интерьер</span>
+              <span data-filter=".theaters">Театрууд</span>
+              <span data-filter=".residential">Орон сууц</span>
             </div>
           </div>
           <div className="row gallery">
@@ -31,10 +31,10 @@ const WorkFourColumn = () => {
                 </div>
                 <div className="cont">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details">Орчин үеийн хотхон</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Архитектур</span>
+                  <span>Орчин үеийн</span>
                 </div>
               </div>
             </div>
@@ -45,10 +45,10 @@ const WorkFourColumn = () => {
                 </div>
                 <div className="cont">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details">Орчин үеийн хотхон</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Архитектур</span>
+                  <span>Орчин үеийн</span>
                 </div>
               </div>
             </div>
@@ -59,10 +59,10 @@ const WorkFourColumn = () => {
                 </div>
                 <div className="cont">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details">Орчин үеийн хотхон</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Архитектур</span>
+                  <span>Орчин үеийн</span>
                 </div>
               </div>
             </div>
@@ -73,10 +73,10 @@ const WorkFourColumn = () => {
                 </div>
                 <div className="cont">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details">Орчин үеийн хотхон</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Архитектур</span>
+                  <span>Орчин үеийн</span>
                 </div>
               </div>
             </div>
@@ -87,10 +87,10 @@ const WorkFourColumn = () => {
                 </div>
                 <div className="cont">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details">Орчин үеийн хотхон</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Архитектур</span>
+                  <span>Орчин үеийн</span>
                 </div>
               </div>
             </div>
@@ -101,10 +101,10 @@ const WorkFourColumn = () => {
                 </div>
                 <div className="cont">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details">Орчин үеийн хотхон</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Архитектур</span>
+                  <span>Орчин үеийн</span>
                 </div>
               </div>
             </div>
@@ -115,10 +115,10 @@ const WorkFourColumn = () => {
                 </div>
                 <div className="cont">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details">Орчин үеийн хотхон</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Архитектур</span>
+                  <span>Орчин үеийн</span>
                 </div>
               </div>
             </div>
@@ -129,10 +129,10 @@ const WorkFourColumn = () => {
                 </div>
                 <div className="cont">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details">Орчин үеийн хотхон</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Архитектур</span>
+                  <span>Орчин үеийн</span>
                 </div>
               </div>
             </div>
@@ -143,10 +143,10 @@ const WorkFourColumn = () => {
                 </div>
                 <div className="cont">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details">Орчин үеийн хотхон</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Архитектур</span>
+                  <span>Орчин үеийн</span>
                 </div>
               </div>
             </div>

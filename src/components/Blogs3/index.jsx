@@ -7,12 +7,12 @@ const Blogs3 = ({ smallTitle }) => {
       <div className="container">
         {!smallTitle ? (
           <div className="main-header text-center">
-            <h3>Latest News.</h3>
-            <div className="tex-bg">Blog</div>
+            <h3>Шинэ мэдээ.</h3>
+            <div className="tex-bg">Блог</div>
           </div>
         ) : (
           <div className="section-head">
-            <h3>News</h3>
+            <h3>Мэдээ</h3>
           </div>
         )}
         <div className="row">
@@ -33,23 +33,23 @@ const Blogs3 = ({ smallTitle }) => {
                 <div className="info">
                   <Link href="#">
                     <a className="author">
-                      <span>Admin</span>
+                      <span>Админ</span>
                     </a>
                   </Link>
                   <Link href="/blog-details">
                     <a className="tag">
-                      <span>WordPress</span>
+                      <span>платформ </span>
                     </a>
                   </Link>
                 </div>
                 <h6>
                   <Link href="/blog-details">
-                    Double rectangle houses from old containers.
+                  Хуучин савнаас давхар тэгш өнцөгт байшингууд.
                   </Link>
                 </h6>
                 <div className="btn-more">
                   <Link href="/blog-details">
-                    <a className="simple-btn">Read More</a>
+                    <a className="simple-btn">Цааш унших</a>
                   </Link>
                 </div>
               </div>
@@ -72,23 +72,23 @@ const Blogs3 = ({ smallTitle }) => {
                 <div className="info">
                   <Link href="#">
                     <a className="author">
-                      <span>Admin</span>
+                      <span>Админ</span>
                     </a>
                   </Link>
                   <Link href="/blog-details">
                     <a className="tag">
-                      <span>WordPress</span>
+                      <span>платформ </span>
                     </a>
                   </Link>
                 </div>
                 <h6>
                   <Link href="/blog-details">
-                    How to use solid color combine with simple furnitures.
+                    Хатуу өнгийг энгийн тавилгатай хэрхэн хослуулах талаар.
                   </Link>
                 </h6>
                 <div className="btn-more">
                   <Link href="/blog-details" className="simple-btn">
-                    Read More
+                   Цааш унших
                   </Link>
                 </div>
               </div>
@@ -111,23 +111,23 @@ const Blogs3 = ({ smallTitle }) => {
                 <div className="info">
                   <Link href="#">
                     <a className="author">
-                      <span>Admin</span>
+                      <span>Админ</span>
                     </a>
                   </Link>
                   <Link href="/blog-details">
                     <a className="tag">
-                      <span>WordPress</span>
+                      <span>платформ </span>
                     </a>
                   </Link>
                 </div>
                 <h6>
                   <Link href="/blog-details">
-                    How to use solid color combine with simple furnitures.
+                    Хатуу өнгийг энгийн тавилгатай хэрхэн хослуулах талаар.
                   </Link>
                 </h6>
                 <div className="btn-more">
                   <Link href="/blog-details" className="simple-btn">
-                    Read More
+                   Цааш унших
                   </Link>
                 </div>
               </div>

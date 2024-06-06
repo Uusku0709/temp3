@@ -6,7 +6,7 @@ const Team3 = () => {
     <section className="team section-padding">
       <div className="container">
         <div className="section-head">
-          <h3>Our Team</h3>
+          <h3>Манай баг</h3>
         </div>
       </div>
       <div className="container-fluid">
@@ -37,15 +37,15 @@ const Team3 = () => {
                       <use xlinkHref="#circlePath" fill="none" />
                       <text fill="#c5a47e">
                         <textPath xlinkHref="#circlePath">
-                          CEO Manager CEO Manager CEO Manager
+                        Гүйцэтгэх захирал менежер Гүйцэтгэх захирал Гүйцэтгэх захирал менежер
                         </textPath>
                       </text>
                     </g>
                   </svg>
                 </div>
                 <div className="info">
-                  <h6>Ryan Hicks</h6>
-                  <span>Client Manager</span>
+                  <h6>Мөнхбат</h6>
+                  <span>Харилцагчтай холбогдох менежер</span>
                 </div>
               </div>
             </div>
@@ -76,15 +76,15 @@ const Team3 = () => {
                       <use xlinkHref="#circlePath" fill="none" />
                       <text fill="#c5a47e">
                         <textPath xlinkHref="#circlePath">
-                          Interior Designer Interior Designer Interior Designer
+                        Интерьер дизайнер Интерьер дизайнер Интерьер дизайнер
                         </textPath>
                       </text>
                     </g>
                   </svg>
                 </div>
                 <div className="info">
-                  <h6>Ryan Hicks</h6>
-                  <span>Client Manager</span>
+                  <h6>Ганболд</h6>
+                  <span>Харилцагчтай холбогдох менежер</span>
                 </div>
               </div>
             </div>
@@ -115,16 +115,16 @@ const Team3 = () => {
                       <use xlinkHref="#circlePath" fill="none" />
                       <text fill="#c5a47e">
                         <textPath xlinkHref="#circlePath">
-                          Landscape Designer Landscape Designer Landscape
-                          Designer
+                        Ландшафтын дизайнер Ландшафтын дизайнер Ландшафт
+ Дизайнер
                         </textPath>
                       </text>
                     </g>
                   </svg>
                 </div>
                 <div className="info">
-                  <h6>Ryan Hicks</h6>
-                  <span>Client Manager</span>
+                  <h6>Алтангэрэл</h6>
+                  <span>Харилцагчтай холбогдох менежер</span>
                 </div>
               </div>
             </div>
@@ -155,15 +155,15 @@ const Team3 = () => {
                       <use xlinkHref="#circlePath" fill="none" />
                       <text fill="#c5a47e">
                         <textPath xlinkHref="#circlePath">
-                          Client Manager Client Manager Client Manager
+                         Үйлчлүүлэгч менежерҮйлчлүүлэгч менежерҮйлчлүүлэгч менежер
                         </textPath>
                       </text>
                     </g>
                   </svg>
                 </div>
                 <div className="info">
-                  <h6>Ryan Hicks</h6>
-                  <span>Client Manager</span>
+                  <h6>Түмэнжаргал</h6>
+                  <span>Үйлчлүүлэгч менежер</span>
                 </div>
               </div>
             </div>

@@ -11,19 +11,19 @@ const Skills2 = () => {
             <div className="col-lg-6 valign">
               <div className="skills-box full-width">
                 <div className="skill-item">
-                  <h6>Architecture</h6>
+                  <h6>Архитектур</h6>
                   <div className="skill-progress">
                     <div className="progres custom-font" data-value="90%"></div>
                   </div>
                 </div>
                 <div className="skill-item">
-                  <h6>Interior Design</h6>
+                  <h6>Дотоод засал чимэглэл</h6>
                   <div className="skill-progress">
                     <div className="progres custom-font" data-value="75%"></div>
                   </div>
                 </div>
                 <div className="skill-item">
-                  <h6>3D Modeling</h6>
+                  <h6>3D загварчлал</h6>
                   <div className="skill-progress">
                     <div className="progres custom-font" data-value="80%"></div>
                   </div>
@@ -33,16 +33,13 @@ const Skills2 = () => {
             <div className="col-lg-6">
               <div className="content">
                 <h4 className="playfont line-height-50 mb-20">
-                  Providing Customized Design Solutions That Fits Every Space .
+                Орон зай бүрт тохирсон дизайны шийдлүүдийг санал болгож байна.
                 </h4>
                 <p className="mb-10">
-                  Beyond more stoic this along goodness hey this this wow ipsum
-                  manate far impressive manifest farcrud opened inside.
+                Технологийн дэвшил, шинэ материал, минималист загваруудыг ашигладаг.
                 </p>
                 <p>
-                  Fustered impressive manifest crud opened inside owing
-                  punitively around forewent and after wasteful telling sprang
-                  coldly and spoke less clients.
+                рхитектур нь зөвхөн барилга барих ажил бус, харин орчин тойрон, хүмүүсийн амьдралд шууд болон шууд бусаар нөлөөлөх урлаг, шинжлэх ухаан юм. 
                 </p>
               </div>
             </div>

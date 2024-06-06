@@ -9,9 +9,9 @@ const ContactInfo = () => {
             <div className="item">
               <span className="icon pe-7s-phone"></span>
               <div className="cont">
-                <h6 className="custom-font">Call Us</h6>
-                <p>+7 (111) 1234 56789</p>
-                <p>+1 (000) 9876 54321</p>
+                <h6 className="custom-font">Холбоо барих</h6>
+                <p>+976(99999999)</p>
+                <p>+976(99999999)</p>
               </div>
             </div>
           </div>
@@ -19,9 +19,9 @@ const ContactInfo = () => {
             <div className="item">
               <span className="icon pe-7s-mail-open"></span>
               <div className="cont">
-                <h6 className="custom-font">Email Us</h6>
-                <p>contact@Archo.com</p>
-                <p>Username@website.com</p>
+                <h6 className="custom-font">Email</h6>
+                <p>templateinfo@gmail.com</p>
+                <p>Template.mn</p>
               </div>
             </div>
           </div>
@@ -29,10 +29,9 @@ const ContactInfo = () => {
             <div className="item">
               <span className="icon pe-7s-map"></span>
               <div className="cont">
-                <h6 className="custom-font">Address</h6>
+                <h6 className="custom-font">Хаяг</h6>
                 <p>
-                  B17 Princess Road, London, Greater London NW18JR, United
-                  Kingdom
+                  Чингэлтэй дүүрэг
                 </p>
               </div>
             </div>

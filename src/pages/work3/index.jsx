@@ -13,11 +13,11 @@ const Work3 = () => {
       <WorkHeader
         center
         title={{
-          first: "Architecture is a visual art,",
-          second: "and the building speak for themeselves",
+          first: "Архитектур бол дүрслэх урлаг юм,",
+          second: "мөн барилга нь өөрсдөө ярьдаг",
         }}
         // title = "text",
-        content="Architecture bibendum pharetra eleifend. Suspendisse vel volutpat purus, sit amet bibendum nisl. Cras mollis turpis a ipsum ultes, nec condimentum ipsum consequat. Mauris vitae consequat nibh, vitae interdum mi."
+        content="Архитектур гэдэг нь барилга байгууламжийг төлөвлөх, зохион бүтээх, барих урлаг, шинжлэх ухаан юм.."
       />
       <WorkFourColumn />
     </MainLayout>

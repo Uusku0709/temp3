@@ -43,22 +43,22 @@ const BlogsList = () => {
                       </div>
                       <div className="cont">
                         <div className="tags">
-                          <Link href="#">WordPress</Link>
-                          <Link href="#">Themeforest</Link>
-                          <Link href="#">Archo</Link>
+                          <Link href="#">Платформ</Link>
+                          <Link href="#">Зураглал</Link>
+                          <Link href="#">Template</Link>
                         </div>
                         <h4 className="title">
                           <Link href="/blog-details">
-                            Build a Beautiful Blog With Ease
+                          Сайхан блогийг хялбархан бүтээгээрэй
                           </Link>
                         </h4>
                         <p>
-                          Success is no accident. It is hard work, perseverance,
-                          learning, studying, sacrifice and most of all, love of
-                          what you are doing.
+                        Амжилт бол санамсаргүй зүйл биш. Энэ бол шаргуу хөдөлмөр, тэсвэр тэвчээр,
+ суралцах, суралцах, золиослох, хамгийн гол нь хайр
+ чи юу хийж байна.
                         </p>
                         <Link href="/blog-details">
-                          <a className="more">Read More</a>
+                          <a className="more">Цааш унших</a>
                         </Link>
                       </div>
                     </div>

@@ -7,8 +7,8 @@ const Team2 = () => {
     <section className="team bord section-padding">
       <div className="container">
         <div className="main-header text-center">
-          <h3>Creative Team.</h3>
-          <div className="tex-bg">Team</div>
+          <h3>Бүтээлч баг</h3>
+          <div className="tex-bg">Баг</div>
         </div>
       </div>
       <div className="container-fluid">

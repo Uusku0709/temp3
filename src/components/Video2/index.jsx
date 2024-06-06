@@ -41,13 +41,13 @@ const Video2 = () => {
             <h4>
               3<span>K</span> +
             </h4>
-            <h6>Happy Clients</h6>
+            <h6>Сэтгэл ханамжтай үйлчлэгчүүд</h6>
           </div>
           <div className="item">
             <h4>
               14<span>K</span> +
             </h4>
-            <h6>Success Projects</h6>
+            <h6>Амжилттай төсөл</h6>
           </div>
         </div>
       </div>

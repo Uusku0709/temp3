@@ -118,7 +118,7 @@ const IntroWithVertical2 = () => {
                             )}
                             <Link href="/work2">
                               <a className="btn-curve btn-color mt-30">
-                                <span>Discover Work</span>
+                                <span>Ажлын нээлт</span>
                               </a>
                             </Link>
                           </div>

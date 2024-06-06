@@ -25,7 +25,7 @@ const Services3 = ({ bigTitle, grid }) => {
           </div>
         ) : (
           <div className="main-header text-center">
-            <h3>Best Features.</h3>
+            <h3>Шилдэг шинж чанарууд</h3>
             <div className="tex-bg">Services</div>
           </div>
         )}
@@ -43,7 +43,7 @@ const Services3 = ({ bigTitle, grid }) => {
                 <p>{item.content}</p>
                 <Link href="/about">
                   <a className={`more ${!grid ? "custom-font" : ""} mt-30`}>
-                    Read More
+                      Цааш унших
                   </a>
                 </Link>
               </div>
